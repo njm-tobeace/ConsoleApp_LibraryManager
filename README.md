@@ -14,7 +14,7 @@ My application itself is quite simple. A fully developed application, as the nam
 
 #  What can my application do in its current state?  
 
-My application is currently able to add books (title, content, and ID), delete books, mark them as checked out, mark them as returned, and retrieve all saved information.
+My application can currently add books (title, content, and ID), delete books, mark them as checked out, mark them as returned, and temporarily retrieve all stored information.
 
 # IMPORTANT!
 This application is for demonstration purposes only. There will be no updates for the time being. Feel free to further develop and use this code. I would really appreciate any feedback!
